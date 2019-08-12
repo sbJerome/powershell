@@ -1,6 +1,6 @@
 # Powershell
 
-This Repo hold any ufeul Powershell Scripts that ive come up with. Hopefully, you all can use them too. Let me know if you need any clarification on anything.
+This Repo holds any useful Powershell Scripts that I've come up with that may be useful to a wider audience. Hopefully, you all can use them too. Let me know if you need any clarification on anything.
 
 # MIT License
 
