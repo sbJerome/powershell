@@ -7,7 +7,7 @@
 #
 # Synopsos: This script should power on and off VM's as needed to process jobs
 #           On the Azure HPC TouchStone & RMS Nodes
-# Notes: This script generally requires the use of an Azure Service Princial.
+# Notes: This script generally requires the use of an Azure Service Principal.
 #        Please create one prior to using this script in a production, or test
 #        Environment.
 #******************************************************************************
